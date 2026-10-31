@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build files
+**/bin/
+**/obj/
+
+# Development configuration and secrets
+**/appsettings.Development.json
+**/secrets.json
+
+# Logs and Windows files
+*.log
+desktop.ini
